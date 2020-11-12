@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rechner</string>
+    <string name="in1">Wert 1</string>
+    <string name="in2">Wert 2</string>
+    <string name="r1">+</string>
+    <string name="r2">-</string>
+    <string name="r3">*</string>
+    <string name="r4">/</string>
+    <string name="berechnen">Berechnen</string>
+    <string name="ms">MS</string>
+    <string name="mr">MR</string>
+    <string name="out">0</string>
+    <string name="rb">rb</string>
+
+</resources>
